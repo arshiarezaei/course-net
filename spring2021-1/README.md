@@ -2,8 +2,8 @@
 
 ### Due: Saturday, May 15
 
-This assignment includes 2 parts: *TCP and UDP implementation*
-and *Access Control List (ACL)* . Both parts assume that you possess basic networking
+This assignment includes 2 parts: the *TCP and UDP implementation*
+and a *Access Control List (ACL)* . Both parts assume that you possess basic networking
 knowledge and some familiarity with the P4 language. Please take a look at the
 [P4 language spec](https://p4.org/p4-spec/docs/P4-16-v1.1.0-spec.pdf). We use P4_16 in this assignment.
 
@@ -21,7 +21,7 @@ to complete this assignment:
 - Use `cd course-net/spring2021-1/assignment2` to enter the assignment directory that **contains the VM**.
 
 
-The P4 [tutorial](P4_tutorial.pdf) and [cheatsheet](p4-cheat-sheet.pdf) are also for this assignment.
+The P4 [tutorial](assignment2/P4_tutorial.pdf) and [cheatsheet](assignment2/p4-cheat-sheet.pdf) are also for this assignment.
 
 ## Part 1: TCP and UDP implementation
 At this step step you must implement support for two transport layer protocol TCP and UDP.
