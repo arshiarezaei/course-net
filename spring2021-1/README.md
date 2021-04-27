@@ -16,9 +16,10 @@ knowledge and some familiarity with the P4 language. Please take a look at the
 
 We have provided a **VM** for this assignment.
 to complete this assignment:
-- install [VirtualBoX](https://www.virtualbox.org/wiki/Downloads).
-- clone this repository.
-- Use `cd course-net/spring2021-1/assignment2` to enter the assignment directory that **contains the VM**.
+- Install [VirtualBoX](https://www.virtualbox.org/wiki/Downloads).
+- Download the VM from [INL Lab](https://inl-lab.net/). user:p4 pass:p4
+- Clone this repository.
+- Use `cd course-net/spring2021-1/assignment2` to enter the assignment directory.
 
 
 The P4 [tutorial](assignment2/P4_tutorial.pdf) and [cheatsheet](assignment2/p4-cheat-sheet.pdf) are also for this assignment.
