@@ -141,4 +141,4 @@ You must submit:
 * Put your source code for the exercises, in a folder called `acl`  and submit in `assignment2.zip` file. Make sure to submit both the p4 code and the corresponding json file that configures the table entries.
 
 
-**Start early and feel free to ask questions on Github and [Quera](quera.ir) not on Telegram and WhatsApp.**
+**Start early and feel free to ask questions on Github and [Quera](https://quera.ir/course/7744/) not on Telegram and WhatsApp.**
