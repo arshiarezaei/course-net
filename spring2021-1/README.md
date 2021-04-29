@@ -90,7 +90,7 @@ server. In `h2`'s xterm, go to the current exercise folder (`cd exercises/acl`) 
 At this step you should implement the followings:
 1. The TCP and UDP headers
 2. A parser to extract packet headers.
-3. A deparser to serialize packet headers.
+3. A deparser to serialize packet headers(Add Ethernet, IPv4, TCP and UDP headers to your deparser).
 
 ### Step 3: Run your solution
  Go to step 1 and repeat it again, the message you sent from the source will be displayed at the destination.
