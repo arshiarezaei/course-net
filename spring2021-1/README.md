@@ -21,6 +21,7 @@ to complete this assignment:
 - Clone this repository.
 - Use `cd course-net/spring2021-1/assignment2` to enter the assignment directory.
 
+**You can also download the VM from [here](https://drive.google.com/u/0/uc?export=download&confirm=43i2&id=1f22-DYlUV33DsR88_MeMb4s7-1NX_ams)**
 
 The P4 [tutorial](assignment2/P4_tutorial.pdf) and [cheatsheet](assignment2/p4-cheat-sheet.pdf) are also for this assignment.
 
