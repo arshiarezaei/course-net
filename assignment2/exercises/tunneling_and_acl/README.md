@@ -23,6 +23,11 @@ The new header type will contain a protocol ID, which indicates the type of pack
   ```bash
     sudo apt-get install iperf3
   ```
+3. On the VM, cloen this repository
+
+```bash
+    git clone -b spring-2022 https://github.com/arshiarezaei/course-net.git
+  ```
 
 ## Step 1: Implement Tunneling
 
