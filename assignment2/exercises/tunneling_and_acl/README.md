@@ -42,6 +42,8 @@ two 16-bit fields: `proto_id` and `dst_id`.
 
 In the switch `s3` you must also add a simple access control list (ACL) that simply drops every packet with `UDP destination port == 80` and `ipv4 dstAddress==10.0.3.3`.
 
+**Important: if you hard code ACL roles in the data plane you lose some points.**
+
 ### Step 3: Add Forwarding Table Enteries
 
 A P4 program defines a packet-processing pipeline, but the rules within each table are inserted by the control plane. When a rule matches a packet, its action is invoked with parameters supplied by the control plane as part of the rule.
