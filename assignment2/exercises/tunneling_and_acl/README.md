@@ -88,6 +88,7 @@ For this exercise, you have to added the necessary rules to `sX-runtime.json`.
   header, and the message. If you change the destination IP address (e.g. try
   to send to `10.0.3.3`) then the message should not be received by `h2`, and
   will instead be received by `h3`.
+  
 5. Type `exit` or `Ctrl-D` to leave each xterm and the Mininet command line.
 
 
